@@ -2,9 +2,7 @@
 
 ## Requirements
 
-Download a recent version of Python3 from https://www.python.org/download/releases/3.0/
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the libraries.
+Download a the version 3.7.5 of Python3 from https://www.python.org/downloads/release/python-375/
 
 Once you have installed Python3 and pip,clone this project with 
 ```console
@@ -14,7 +12,7 @@ git clone https://github.com/AlejandroBuenoPrieto/YGroup-Challenge
 Then you can use pip to install the requirements:
 ```console
 cd YGroup-Challenge/
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Obtain the dataset:
