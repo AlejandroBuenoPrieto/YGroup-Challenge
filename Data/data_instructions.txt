@@ -1,0 +1,4 @@
+Due to Github restrictions:
+	Download all files from https://www.kaggle.com/aubertsigouin/biximtl
+	Unzip the downloaded file
+	Place files in YGroup-Challenge/Data
